@@ -1,0 +1,21 @@
+human	ENSG000
+human	ENSG000
+human	ENSG000
+human	ENSG000
+human	ENSG000
+human	ENSG000
+human	ENSG000
+human	ENSG000
+human	ENSG000
+human	ENSG000
+human	ENSG000
+human	ENSG000
+human	ENSG000
+human	ENSG000
+mouse	ENSMUSG
+mouse	ENSMUSG
+rat	ENSRNOG
+rat	ENSRNOG
+pig	ENSDARG
+pig	ENSDARG
+
